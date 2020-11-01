@@ -25,5 +25,4 @@ CHARGEN is a hacking framework it was first built for TERMUX it turned into a fa
                            
                            
                            
-                     ![Screenshot 2020-11-01 at 5 21 16 PM](https://user-images.githubusercontent.com/73439298/97817348-cc51f880-1c69-11eb-9847-4ed4aee05fc6.png)
-
+                     
