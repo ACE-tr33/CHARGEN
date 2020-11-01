@@ -18,11 +18,8 @@ def info():
 	VERSION = B+'v1'+E
 	AUTHOR =  B+'@koiv2.c'+E
 	print("""
-    ██▓▒­░ ►▬ WELCOME ▬◄ ░▒▓██
-    |       Version~~> V1    |
-    |        Author~~> ACE   |
-    |   ☞WE ARE TEAM TR33☜  |
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+       𝚟𝚎𝚛𝚜𝚒𝚘𝚗~𝚅𝟷
+       𝙲𝚘𝚍𝚎𝚛~𝙰𝙲𝙴
 		""" % (VERSION, AUTHOR))
 def heads():
 	global head
